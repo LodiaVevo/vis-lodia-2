@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "ODIwMTg5Nzg5Nzg4OTYyODI2.YExjRA.K53jXsDL0q6qW8yZG63oKq5Sb60",
+        "owner": "750320417717223544",
+        "prefix": ".",
+        "botStatus": "discord.gg/sAdxT5B7VU",
+        "botVoiceChannelID": "820174175842205697"
+    },
+    "Roles": {
+        "BoyRole1": "820185432565350440",
+        "BoyRole2": "820186505095675964",
+        "GirlRole1": "820185434734067744",
+        "GirlRole2": "820186505389277195",
+        "Unregister": "820190278777831434",
+        "Registerer": "820184993355399199",
+        "TagRole": "820184651150524437",
+        "Suspicious": "820190511066513419",
+        "Jail": "820190601797435442"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "† Vis #1990",
+            "ServerID": "760810487796596756",
+            "Tag": "†",
+            "UnTag": "ﾑ"
+    },
+        "Channels": {
+            "RegisterChat": "820045319092830218",
+            "TagLog": "820191019340660736",
+            "Rules": "820177074790596648",
+            "GeneralChat": "820179075696033803T"
+        },
+        "Welcome": {
+            "WelcomeChat": "820045319092830218",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
